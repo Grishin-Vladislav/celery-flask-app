@@ -1,3 +1,5 @@
 Flask==3.0.0
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
+celery==5.3.6
+redis==5.0.1
